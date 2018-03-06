@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/fobear/demo#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
     "gulp-typescript": "^4.0.1"
   },
   "dependencies": {
